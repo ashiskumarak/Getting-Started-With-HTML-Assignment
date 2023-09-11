@@ -1,0 +1,6 @@
+The main purpose of comment in HTML is, if you want to write about the written code like what is the logic you have implemented or why used and you do not want to run the code.
+
+Basically comments are used for humans only, ege if any developer written code today and after some months or years, if he/she wants to read the code again the comments will be helping at that particular time.
+There are 2 ways to write comment –
+    
+     1. Single line comment 2. Multi line comment

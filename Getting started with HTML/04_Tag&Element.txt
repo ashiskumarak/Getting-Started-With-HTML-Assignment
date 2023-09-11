@@ -1,0 +1,28 @@
+=> Tag:- HTML tags are used to define the structure and layout of the web pages. It consists of angle brackets with specific keywords. These specified tags provide information to the web browser to display the contents.
+
+=> A tag can be written as opening tag and closing tag where opening tags are written less than symbol (<) followed by the tag name and ends with greater-than symbol (>) eg. <p>
+
+=> The closing tag follow same with a forward slash (/) eg. </p>
+    Ex. <tagname>  opening tag
+      </tagname> closing tag
+
+=>It is of 2 types => 1. Paired tag 2. Singular tag
+
+=> Paired tag => paired tags have both opening tag and closing tag. And they can contain other HTML elements also.
+    Eg. <p>, <html>, <span>, <div> <body> etc..
+
+=> Singular tag=> singular tags  are self closing tags . They do not require separate closing tag.
+		- They do not contain any content .
+    Eg. <br/>, <img/>, <hr/>, <meta/> etc..
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+=>ELEMENT:
+-> Element is the building block of html document. HTML elements contains starting tag, ending tag and content between the tags.
+
+-> Starting tag defines the starting of the HTML element and end tag defines end  of HTML tag.
+    Opening tag- <tagname>
+
+-> Content-this is the content that appears in in between opening tag and closing tag. And some elements do not require content and are self closing.
+    Closing tag- </tagname>
+

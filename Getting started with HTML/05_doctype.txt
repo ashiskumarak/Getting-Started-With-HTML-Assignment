@@ -1,0 +1,11 @@
+
+=> Doctype tells the browser that what type of document it is. Here html document.
+
+=> It is defined before the html tag, and appears only once in the document
+
+=> The <DOCTYPE> is not case sensitive. Any case we can follow.
+
+<!doctype html>	
+<!Doctype html> 
+<!DocType html>  
+<!DOCTYPE html>
